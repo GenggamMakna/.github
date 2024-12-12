@@ -1,7 +1,7 @@
 ## Genggam Makna
 Genggam Makna is an Al-powered platform designed to bridge communication gaps by translating SIBI (Indonesian Sign Language) hand signs into the alphabet. Empowering accessibility and fostering inclusivity for a more connected world.
 <p align="center">
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/GenggamMakna/.github/refs/heads/main/profile/genggam-makna-logo.png" width="25%" />
 </p>
 
 
