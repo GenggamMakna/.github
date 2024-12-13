@@ -9,10 +9,10 @@ Genggam Makna is an Al-powered platform designed to bridge communication gaps by
 Hello everyone! We are from team C242-PS235. Our teams consist of seven members, which are:
 | **Bangkit ID**  | **Name** |  **Learning Path** | **University** | **Github** | **Linkedin** | 
 | ------------- | -------------  | -------------  | -------------  | ------------- | ------------- |
-| M230B4KY2083  | John Alessandro Jong  | Machine Learning   | Universitas Katolik De La Salle  | [![John Alessandro Jong](https://skillicons.dev/icons?i=github)](https://github.com/jlxndro)  | 
-| M283B4KY4567  | Yulianto Aryaseta  | Machine Learning   | Universitas Negeri Semarang    | [![RYulianto Aryaseta](https://skillicons.dev/icons?i=github)](https://github.com/Setaarya) |
+| M230B4KY2083  | John Alessandro Jong  | Machine Learning   | Universitas Katolik De La Salle  | [![John Alessandro Jong](https://skillicons.dev/icons?i=github)](https://github.com/jlxndro)  | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-alessandro-jong) |
+| M283B4KY4567  | Yulianto Aryaseta  | Machine Learning   | Universitas Negeri Semarang    | [![RYulianto Aryaseta](https://skillicons.dev/icons?i=github)](https://github.com/Setaarya) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yulianto-aryaseta) |
 | C314B4KY2189  | Kevin Sipahutar  | Cloud Computing   | Universitas Singaperbangsa Karawang    | [![Kevin Sipahutar](https://skillicons.dev/icons?i=github)](https://github.com/vinss-droid)   | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsipahutar/) |
-| C314B4KY3675  | Rama Diaz  | Cloud Computing   | Universitas Singaperbangsa Karawang  | [![Zakyprm](https://skillicons.dev/icons?i=github)](https://github.com/ramadiaz) |
+| C314B4KY3675  | Rama Diaz  | Cloud Computing   | Universitas Singaperbangsa Karawang  | [![Zakyprm](https://skillicons.dev/icons?i=github)](https://github.com/ramadiaz) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramadiaz/) |
 <!--| A172B4KY4402  | Vantur Roganda Siringoringo   | Cloud Computing  | Universitas Mikroskil    | [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)](https://github.com/Vantur1424)  |
 | A172B4KY4575  | Yusra Budiman Hasibuan  | Mobile Development   | Universitas Mikroskil    |  [![Rivo Juniandra Rumadi](https://skillicons.dev/icons?i=github)](https://github.com/yusrabudiman) |
 <!--
